@@ -1,0 +1,10 @@
+MERGE SORT
+Enter the number of elements: 5  
+Enter 5 elements: 34 7 23 32 5  
+Sorted array: 5 7 23 32 34
+********************************************************************
+QUICK SORT
+Enter the number of elements: 6  
+Enter 6 elements: 21 45 12 3 9 87  
+Before sorting: 21 45 12 3 9 87  
+After sorting: 3 9 12 21 45 87
